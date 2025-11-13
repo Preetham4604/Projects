@@ -143,24 +143,8 @@ API: Have I Been Pwned (Password Range API)
 
 git clone https://github.com/your-username/CyberPasswordChecker.git
 
-cd CyberPasswordChecker
-
-
-2️⃣ Create and activate virtual environment
-
-Windows
-
-python -m venv venv
-venv\Scripts\activate
-
-
-macOS/Linux
-
-python3 -m venv venv
-source venv/bin/activate
-
-3️⃣ Install dependencies
+2️⃣ Install dependencies
 pip install -r requirements.txt
 
-4️⃣ Run the app
+3️⃣ Run the app
 python password_checker.py
